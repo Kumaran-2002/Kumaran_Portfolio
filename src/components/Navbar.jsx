@@ -108,14 +108,14 @@ export default function Navbar() {
                 }}
               >
                 <a
-                  href="/Kumaran_Balachandran_Frontend_Resume.pdf"
+                  href="Kumaran_Balachandran_RD_Resume.pdf"
                   download
                   style={{ display: "block", padding: 10 }}
                 >
                   Download PDF
                 </a>
                 <a
-                  href="/Kumaran_Balachandran_Frontend_Resume.docx"
+                  href="Kumaran_Balachandran_RD_Resume.docx"
                   download
                   style={{ display: "block", padding: 10 }}
                 >
@@ -155,7 +155,7 @@ export default function Navbar() {
 
           {/* Mobile Resume Buttons */}
           <a
-            href="/Kumaran_Balachandran_Frontend_Resume.pdf"
+            href="Kumaran_Balachandran_RD_Resume.pdf"
             download
             style={{
               background: "var(--primary)",
@@ -169,7 +169,7 @@ export default function Navbar() {
           </a>
 
           <a
-            href="/Kumaran_Balachandran_Frontend_Resume.docx"
+            href="Kumaran_Balachandran_RD_Resume.docx"
             download
             style={{
               border: "1px solid var(--border)",
